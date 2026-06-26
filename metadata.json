@@ -1,0 +1,8 @@
+{
+  "name": "LICISOLUCIONES S.A.S BIC",
+  "description": "Sitio web oficial de la firma legal LICISOLUCIONES S.A.S BIC. Ofrecemos soluciones jurídicas integrales en Bogotá con enfoque de beneficio e interés colectivo (BIC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
