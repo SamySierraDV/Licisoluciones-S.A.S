@@ -16,8 +16,8 @@ export default function Home() {
   const [ctaRef, ctaInView] = useInView({ triggerOnce: true, threshold: 0.1 });
 
   const stats = [
-    { value: '15+', label: 'Años de Experiencia' },
-    { value: '250+', label: 'Casos Exitosos' },
+    { value: '2+', label: 'Años de Experiencia' },
+    { value: '150+', label: 'Casos Exitosos' },
     { value: '100%', label: 'Compromiso Ético' },
     { value: 'BIC', label: 'Estatus de Triple Impacto' },
   ];
